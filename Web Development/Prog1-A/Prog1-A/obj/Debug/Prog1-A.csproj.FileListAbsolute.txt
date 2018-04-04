@@ -1,0 +1,9 @@
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Prog1-A\Prog1-A\bin\Debug\Prog1-A.exe.config
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Prog1-A\Prog1-A\bin\Debug\Prog1-A.exe
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Prog1-A\Prog1-A\bin\Debug\Prog1-A.pdb
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Prog1-A\Prog1-A\obj\Debug\Prog1-A.csprojResolveAssemblyReference.cache
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Prog1-A\Prog1-A\obj\Debug\Prog1-A.exe
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Prog1-A\Prog1-A\obj\Debug\Prog1-A.pdb
+C:\Users\DTQUI\Desktop\CIS Portfolio\Prog1-A\Prog1-A\bin\Debug\Prog1-A.exe.config
+C:\Users\DTQUI\Desktop\CIS Portfolio\Prog1-A\Prog1-A\obj\Debug\Prog1-A.exe
+C:\Users\DTQUI\Desktop\CIS Portfolio\Prog1-A\Prog1-A\obj\Debug\Prog1-A.pdb

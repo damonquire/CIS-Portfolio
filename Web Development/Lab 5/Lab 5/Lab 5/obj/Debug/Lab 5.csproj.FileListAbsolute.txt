@@ -1,0 +1,8 @@
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Lab 5\Lab 5\bin\Debug\Lab 5.exe.config
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Lab 5\Lab 5\bin\Debug\Lab 5.exe
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Lab 5\Lab 5\bin\Debug\Lab 5.pdb
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Lab 5\Lab 5\obj\Debug\Lab_5.lab5.resources
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Lab 5\Lab 5\obj\Debug\Lab_5.Properties.Resources.resources
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Lab 5\Lab 5\obj\Debug\Lab 5.csproj.GenerateResource.Cache
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Lab 5\Lab 5\obj\Debug\Lab 5.exe
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Lab 5\Lab 5\obj\Debug\Lab 5.pdb

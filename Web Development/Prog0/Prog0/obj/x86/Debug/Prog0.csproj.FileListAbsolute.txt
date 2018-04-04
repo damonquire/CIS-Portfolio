@@ -1,0 +1,45 @@
+C:\Users\alwrig01\Desktop\Prog0\Prog0\obj\x86\Debug\Prog4.exe
+C:\Users\alwrig01\Desktop\Prog0\Prog0\obj\x86\Debug\Prog4.pdb
+C:\Users\alwrig01\Desktop\Prog0\Prog0\bin\Debug\Prog4.exe
+C:\Users\alwrig01\Desktop\Prog0\Prog0\bin\Debug\Prog4.pdb
+C:\Users\alwrig01\Desktop\Prog0\Prog0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13S\Progs\Prog0\Prog0\obj\x86\Debug\Prog4.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13S\Progs\Prog0\Prog0\obj\x86\Debug\Prog4.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13S\Progs\Prog0\Prog0\bin\Debug\Prog4.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13S\Progs\Prog0\Prog0\bin\Debug\Prog4.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13S\Progs\Prog0\Prog0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14S\Progs\Prog0\Prog0\obj\x86\Debug\Prog4.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14S\Progs\Prog0\Prog0\obj\x86\Debug\Prog4.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14S\Progs\Prog0\Prog0\bin\Debug\Prog4.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14S\Progs\Prog0\Prog0\bin\Debug\Prog4.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14S\Progs\Prog0\Prog0\obj\x86\Debug\Prog0.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog0\Prog0\obj\x86\Debug\Prog4.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog0\Prog0\obj\x86\Debug\Prog4.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog0\Prog0\bin\Debug\Prog4.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog0\Prog0\bin\Debug\Prog4.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog0\Prog0\obj\x86\Debug\Prog0.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog0\Prog0\obj\x86\Debug\Prog4.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog0\Prog0\obj\x86\Debug\Prog4.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog0\Prog0\bin\Debug\Prog4.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog0\Prog0\bin\Debug\Prog4.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog0\Prog0\obj\x86\Debug\Prog0.csprojResolveAssemblyReference.cache
+C:\Users\DTQUI\Music\Prog0Start\Prog0\Prog0\obj\x86\Debug\Prog4.exe
+C:\Users\DTQUI\Music\Prog0Start\Prog0\Prog0\obj\x86\Debug\Prog4.pdb
+C:\Users\DTQUI\Music\Prog0Start\Prog0\Prog0\obj\x86\Debug\Prog0.csprojResolveAssemblyReference.cache
+C:\Users\DTQUI\Music\Prog0Start\Prog0\Prog0\bin\Debug\Prog4.exe
+C:\Users\DTQUI\Music\Prog0Start\Prog0\Prog0\bin\Debug\Prog4.pdb
+C:\Users\DTQUI\Music\Prog0\Prog0\obj\x86\Debug\Prog4.exe
+C:\Users\DTQUI\Music\Prog0\Prog0\obj\x86\Debug\Prog4.pdb
+C:\Users\DTQUI\Music\Prog0\Prog0\bin\Debug\Prog4.exe
+C:\Users\DTQUI\Music\Prog0\Prog0\bin\Debug\Prog4.pdb
+C:\Users\DTQUI\Music\Prog0\Prog0\obj\x86\Debug\Prog0.csprojResolveAssemblyReference.cache
+C:\Users\DTQUI\Videos\Prog0\Prog0\obj\x86\Debug\Prog4.exe
+C:\Users\DTQUI\Videos\Prog0\Prog0\obj\x86\Debug\Prog4.pdb
+C:\Users\DTQUI\Videos\Prog0\Prog0\bin\Debug\Prog4.exe
+C:\Users\DTQUI\Videos\Prog0\Prog0\bin\Debug\Prog4.pdb
+C:\Users\DTQUI\Videos\Prog0\Prog0\obj\x86\Debug\Prog0.csprojResolveAssemblyReference.cache
+C:\Users\DTQUI\Desktop\CIS Portfolio\Prog0\Prog0\obj\x86\Debug\Prog4.exe
+C:\Users\DTQUI\Desktop\CIS Portfolio\Prog0\Prog0\obj\x86\Debug\Prog4.pdb
+C:\Users\DTQUI\Desktop\CIS Portfolio\Prog0\Prog0\obj\x86\Debug\Prog0.csprojResolveAssemblyReference.cache
+C:\Users\DTQUI\Desktop\CIS Portfolio\Prog0\Prog0\bin\Debug\Prog4.exe
+C:\Users\DTQUI\Desktop\CIS Portfolio\Prog0\Prog0\bin\Debug\Prog4.pdb

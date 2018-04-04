@@ -1,0 +1,12 @@
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Program 2\Program 2\bin\Debug\Program 2.exe.config
+C:\Users\DTQUI\OneDrive\Documents\Visual Studio 2015\Projects\Program 2\Program 2\bin\Debug\Program 2.exe
+C:\Users\DTQUI\OneDrive\Documents\Visual Studio 2015\Projects\Program 2\Program 2\bin\Debug\Program 2.pdb
+C:\Users\DTQUI\OneDrive\Documents\Visual Studio 2015\Projects\Program 2\Program 2\obj\Debug\Program 2.csprojResolveAssemblyReference.cache
+C:\Users\DTQUI\OneDrive\Documents\Visual Studio 2015\Projects\Program 2\Program 2\obj\Debug\Program_2.program2.resources
+C:\Users\DTQUI\OneDrive\Documents\Visual Studio 2015\Projects\Program 2\Program 2\obj\Debug\Program_2.Properties.Resources.resources
+C:\Users\DTQUI\OneDrive\Documents\Visual Studio 2015\Projects\Program 2\Program 2\obj\Debug\Program 2.csproj.GenerateResource.Cache
+C:\Users\DTQUI\OneDrive\Documents\Visual Studio 2015\Projects\Program 2\Program 2\obj\Debug\Program 2.exe
+C:\Users\DTQUI\OneDrive\Documents\Visual Studio 2015\Projects\Program 2\Program 2\obj\Debug\Program 2.pdb
+C:\Users\DTQUI\Desktop\CIS Portfolio\Program 2\Program 2\bin\Debug\Program 2.exe.config
+C:\Users\DTQUI\Desktop\CIS Portfolio\Program 2\Program 2\obj\Debug\Program 2.exe
+C:\Users\DTQUI\Desktop\CIS Portfolio\Program 2\Program 2\obj\Debug\Program 2.pdb

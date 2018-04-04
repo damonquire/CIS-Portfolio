@@ -1,0 +1,9 @@
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Lab 8\Lab 8\bin\Debug\Lab 8.exe.config
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Lab 8\Lab 8\bin\Debug\Lab 8.exe
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Lab 8\Lab 8\bin\Debug\Lab 8.pdb
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Lab 8\Lab 8\obj\Debug\Lab 8.csprojResolveAssemblyReference.cache
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Lab 8\Lab 8\obj\Debug\Lab_8.lab8.resources
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Lab 8\Lab 8\obj\Debug\Lab_8.Properties.Resources.resources
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Lab 8\Lab 8\obj\Debug\Lab 8.csproj.GenerateResource.Cache
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Lab 8\Lab 8\obj\Debug\Lab 8.exe
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Lab 8\Lab 8\obj\Debug\Lab 8.pdb

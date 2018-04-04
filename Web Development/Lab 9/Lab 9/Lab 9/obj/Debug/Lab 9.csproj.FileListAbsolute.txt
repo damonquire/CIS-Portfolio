@@ -1,0 +1,9 @@
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Lab 9\Lab 9\bin\Debug\Lab 9.exe.config
+C:\Users\DTQUI\onedrive\documents\visual studio 2015\Projects\Lab 9\Lab 9\bin\Debug\Lab 9.exe
+C:\Users\DTQUI\onedrive\documents\visual studio 2015\Projects\Lab 9\Lab 9\bin\Debug\Lab 9.pdb
+C:\Users\DTQUI\onedrive\documents\visual studio 2015\Projects\Lab 9\Lab 9\obj\Debug\Lab 9.csprojResolveAssemblyReference.cache
+C:\Users\DTQUI\onedrive\documents\visual studio 2015\Projects\Lab 9\Lab 9\obj\Debug\Lab_9.DateForm.resources
+C:\Users\DTQUI\onedrive\documents\visual studio 2015\Projects\Lab 9\Lab 9\obj\Debug\Lab_9.Properties.Resources.resources
+C:\Users\DTQUI\onedrive\documents\visual studio 2015\Projects\Lab 9\Lab 9\obj\Debug\Lab 9.csproj.GenerateResource.Cache
+C:\Users\DTQUI\onedrive\documents\visual studio 2015\Projects\Lab 9\Lab 9\obj\Debug\Lab 9.exe
+C:\Users\DTQUI\onedrive\documents\visual studio 2015\Projects\Lab 9\Lab 9\obj\Debug\Lab 9.pdb

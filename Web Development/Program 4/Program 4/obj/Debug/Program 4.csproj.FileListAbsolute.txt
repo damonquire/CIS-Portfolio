@@ -1,0 +1,12 @@
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Program 4\Program 4\bin\Debug\Program 4.exe.config
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Program 4\Program 4\bin\Debug\Program 4.exe
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Program 4\Program 4\bin\Debug\Program 4.pdb
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Program 4\Program 4\obj\Debug\Program 4.csprojResolveAssemblyReference.cache
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Program 4\Program 4\obj\Debug\Program_4.program4.resources
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Program 4\Program 4\obj\Debug\Program_4.Properties.Resources.resources
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Program 4\Program 4\obj\Debug\Program 4.csproj.GenerateResource.Cache
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Program 4\Program 4\obj\Debug\Program 4.exe
+c:\users\dtqui\onedrive\documents\visual studio 2015\Projects\Program 4\Program 4\obj\Debug\Program 4.pdb
+C:\Users\DTQUI\Desktop\CIS Portfolio\Program 4\Program 4\bin\Debug\Program 4.exe.config
+C:\Users\DTQUI\Desktop\CIS Portfolio\Program 4\Program 4\obj\Debug\Program 4.exe
+C:\Users\DTQUI\Desktop\CIS Portfolio\Program 4\Program 4\obj\Debug\Program 4.pdb
